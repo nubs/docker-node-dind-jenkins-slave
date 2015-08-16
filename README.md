@@ -14,6 +14,10 @@ and is a derivative of the example slave container described there.
 It can also be run more permanently and used with Jenkins standard "dumb
 slave" configuration over ssh.
 
+## License
+docker-node-dind-jenkins-slave is licensed under the MIT license.  See
+[LICENSE](LICENSE) for the full license text.
+
 [node.js]: http://nodejs.org/
 [npm]: https://www.npmjs.org/
 [tehranian/dind-jenkins-slave]: https://github.com/tehranian/dind-jenkins-slave
